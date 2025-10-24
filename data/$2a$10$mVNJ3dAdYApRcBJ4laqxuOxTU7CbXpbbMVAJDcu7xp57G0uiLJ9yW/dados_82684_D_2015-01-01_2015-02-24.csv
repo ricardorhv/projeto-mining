@@ -1,0 +1,67 @@
+Nome: MORRO DOS CAVALOS
+Codigo Estacao: 82684
+Latitude: -7.85
+Longitude: -41.9
+Altitude: 242
+Situacao: Desativada
+Data Inicial: 2015-01-01
+Data Final: 2015-02-24
+Periodicidade da Medicao: Diaria
+
+Data Medicao;EVAPORACAO DO PICHE, DIARIA(mm);INSOLACAO TOTAL, DIARIO(h);PRECIPITACAO TOTAL, DIARIO(mm);TEMPERATURA MAXIMA, DIARIA(°C);TEMPERATURA MEDIA COMPENSADA, DIARIA(°C);TEMPERATURA MINIMA, DIARIA(°C);UMIDADE RELATIVA DO AR, MEDIA DIARIA(%);UMIDADE RELATIVA DO AR, MINIMA DIARIA(%);VENTO, VELOCIDADE MEDIA DIARIA(m/s);
+2015-01-01;null;null;null;null;null;null;null;null;null;
+2015-01-02;null;null;null;null;null;null;null;null;null;
+2015-01-03;null;null;null;null;null;null;null;null;null;
+2015-01-04;null;null;null;null;null;null;null;null;null;
+2015-01-05;null;null;null;null;null;null;null;null;null;
+2015-01-06;null;null;null;null;null;null;null;null;null;
+2015-01-07;null;null;null;null;null;null;null;null;null;
+2015-01-08;null;null;null;null;null;null;null;null;null;
+2015-01-09;null;null;null;null;null;null;null;null;null;
+2015-01-10;null;null;null;null;null;null;null;null;null;
+2015-01-11;null;null;null;null;null;null;null;null;null;
+2015-01-12;null;null;null;null;null;null;null;null;null;
+2015-01-13;null;null;null;null;null;null;null;null;null;
+2015-01-14;null;null;null;null;null;null;null;null;null;
+2015-01-15;null;null;null;null;null;null;null;null;null;
+2015-01-16;null;null;null;null;null;null;null;null;null;
+2015-01-17;null;null;null;null;null;null;null;null;null;
+2015-01-18;null;null;null;null;null;null;null;null;null;
+2015-01-19;null;null;null;null;null;null;null;null;null;
+2015-01-20;null;null;null;null;null;null;null;null;null;
+2015-01-21;null;null;null;null;null;null;null;null;null;
+2015-01-22;null;null;null;null;null;null;null;null;null;
+2015-01-23;null;null;null;null;null;null;null;null;null;
+2015-01-24;null;null;null;null;null;null;null;null;null;
+2015-01-25;null;null;null;null;null;null;null;null;null;
+2015-01-26;null;null;null;null;null;null;null;null;null;
+2015-01-27;null;null;null;null;null;null;null;null;null;
+2015-01-28;null;null;null;null;null;null;null;null;null;
+2015-01-29;null;null;null;null;null;null;null;null;null;
+2015-01-30;null;null;null;null;null;null;null;null;null;
+2015-01-31;null;null;null;null;null;null;null;null;null;
+2015-02-01;null;null;null;null;null;null;null;null;null;
+2015-02-02;null;null;null;null;null;null;null;null;null;
+2015-02-03;null;null;null;null;null;null;null;null;null;
+2015-02-04;null;null;null;null;null;null;null;null;null;
+2015-02-05;null;null;null;null;null;null;null;null;null;
+2015-02-06;null;null;null;null;null;null;null;null;null;
+2015-02-07;null;null;null;null;null;null;null;null;null;
+2015-02-08;null;null;null;null;null;null;null;null;null;
+2015-02-09;null;null;null;null;null;null;null;null;null;
+2015-02-10;null;null;null;null;null;null;null;null;null;
+2015-02-11;null;null;null;null;null;null;null;null;null;
+2015-02-12;null;null;null;null;null;null;null;null;null;
+2015-02-13;null;null;null;null;null;null;null;null;null;
+2015-02-14;null;null;null;null;null;null;null;null;null;
+2015-02-15;null;null;null;null;null;null;null;null;null;
+2015-02-16;null;null;null;null;null;null;null;null;null;
+2015-02-17;null;null;null;null;null;null;null;null;null;
+2015-02-18;null;null;null;null;null;null;null;null;null;
+2015-02-19;null;null;null;null;null;null;null;null;null;
+2015-02-20;null;null;null;null;null;null;null;null;null;
+2015-02-21;null;null;null;null;null;null;null;null;null;
+2015-02-22;null;null;null;null;null;null;null;null;null;
+2015-02-23;null;null;null;null;null;null;null;null;null;
+2015-02-24;null;null;null;null;null;null;null;null;null;
+
